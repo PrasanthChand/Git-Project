@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Merge of Hot-Fix branch with Production branch - REL02.00.01
 
+=======
+Commit 4 Hot-Fix Branch REL02.00.01
+>>>>>>> Hot-Fix-Branch
